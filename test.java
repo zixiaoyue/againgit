@@ -2,7 +2,7 @@ package action;
 
 public class test {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {//yes
 		DaoCon con = new DaoCon();
 		if(con!=null){
 			System.out.println("hello");

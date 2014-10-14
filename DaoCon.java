@@ -1,7 +1,7 @@
 package action;
 
 import java.sql.Connection;
-import java.sql.DriverManager;//zixaoyue
+import java.sql.DriverManager;
 public class DaoCon{
 	public static void main(String[] args){
 		DaoCon dd = new DaoCon();

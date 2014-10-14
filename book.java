@@ -20,7 +20,6 @@ public class book extends ActionSupport{
        private String PublishData;
        private String Price;
        private int i=0;
-	   private String zixiaoyue;
     public String[] getBooktitle() {
    		return booktitle;
    	}
